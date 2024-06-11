@@ -1,8 +1,8 @@
 def suma(a, b):
-    return a + b, "Cuenta realizada con exito"
+    return a + b
 
+print("cuenta realizada")
 
-print(suma(1, 2))
 
 
 
